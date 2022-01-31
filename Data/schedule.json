@@ -1,0 +1,31 @@
+{
+  "sunday": {
+    "name": "OnCall Service",
+    "phone": "800 555-1212"
+  },
+  "monday": {
+    "name": "Bob Jones",
+    "phone": "216 555-1212"
+  },
+  "tuesday": {
+    "name": "Jill Smith",
+    "phone": "216 555-1213"
+  },
+  "wednesday": {
+    "name": "Bob Jones",
+    "phone": "216 555-1212"
+  },
+  "thursday": {
+    "name": "Jill Smith",
+    "phone": "216 555-1213"
+  },
+  "friday": {
+    "name": "Bob Jones",
+    "phone": "216 555-1212"
+  },
+  
+  "saturday": {
+    "name": "OnCall Service",
+    "phone": "800 555-1212"
+  }
+}
