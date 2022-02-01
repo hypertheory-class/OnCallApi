@@ -16,9 +16,18 @@ spec:
       containers:
       - name: oncall-api
         image: oncall-api:v1.0
+        volumeMounts:
+          - mountPath: /app/Data/
+            name: schedule-config
         resources:
           limits:
             memory: "128Mi"
             cpu: "500m"
         ports:
         - containerPort: 80
+      volumes:
+        - name: schedule-config
+          configMap:
+            name: schedule-config-map
+
+
