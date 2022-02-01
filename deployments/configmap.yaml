@@ -16,10 +16,10 @@ data:
         "email": "ceo@company.com",
         "phone": "(555) 555-1210"
       },
-      "tuesday": {
-        "name": "Sue Jones",
-        "email": "sue@company.com",
-        "phone": "(555) 555-1212"
+      "tuesday":{
+        "name": "Queenie McMillian",
+        "email": "ceo@company.com",
+        "phone": "(555) 555-1210"
       },
       "wednesday": {
         "name": "Sue Jones",
